@@ -1,10 +1,7 @@
 # asana-list-tasks
-## Author: Dmitriy Kupch
-## Description: Provide a list of tasks completed since certain preiod of time
-##
-## v=1.0.0 - Initial
-##
-##
+# Author: Dmitriy Kupch
+# Description: Provide a list of tasks completed since certain preiod of time
+#
 
 Usage: 
 
