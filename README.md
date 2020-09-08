@@ -1,8 +1,9 @@
 # asana-list-tasks
-# Author: Dmitriy Kupch
-# Description: Provide a list of tasks completed since certain preiod of time
-#
+Author: Dmitriy Kupch
 
-Usage: 
+Description: Provide a list of tasks completed since certain preiod of time
 
-atasks.py -t <token_api> -g <task_list_gid> -d <date [YYYY-MM-DD]>
+
+**Usage:** 
+
+*atasks.py -t <token_api> -g <task_list_gid> -d <date [YYYY-MM-DD]>*
